@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🔧 I currently use <strong>VSCode</strong> as a development tool.
+  🔧 I currently use <strong>VSCode, Git</strong> and <strong>GitHub</strong> as a development tool.
 </p>
 
 <p align="left">
-  #️⃣ At the moment i work with <strong>HTML, CSS and JavaScript</strong> languages.
+  #️⃣ Skills with <strong>HTML, CSS and JavaScript</strong> languages.
 </p>
 
 <p align="left">
