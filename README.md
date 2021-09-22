@@ -5,7 +5,7 @@
 </h2>
 
 <p align="left">
-  📚 I'm a <strong>Web Development</strong> and <strong>Analysis and Systems Development student.</strong>
+  📚 I'm a <strong>Web Development</strong> and <strong>Analysis and Systems Development</strong>student.
 </p>
 
 <p align="left">
