@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  #️⃣ I currently work with <strong>HTML, CSS and JavaScript</strong> languages.
+  #️⃣ At the moment i work with <strong>HTML, CSS and JavaScript</strong> languages.
 </p>
 
 <p align="left">
